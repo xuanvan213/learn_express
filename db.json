@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Van",
+      "age": "19",
+      "id": "FK3hcC9Az"
+    },
+    {
+      "name": "Nhi",
+      "age": "19",
+      "id": "ua5QcBFY8"
+    },
+    {
+      "name": "Van dep trai",
+      "age": "20",
+      "id": "AzkAKE95e"
+    }
+  ]
+}
